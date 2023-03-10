@@ -1,0 +1,16 @@
+PODS:
+  - LogViewLibrary (0.1.0)
+
+DEPENDENCIES:
+  - LogViewLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  LogViewLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LogViewLibrary: ed3f130555f091ac2a8a7cb126e96c89b689a1be
+
+PODFILE CHECKSUM: 32a882700e8ae6394789010a9a0018f97c5b3566
+
+COCOAPODS: 1.12.0

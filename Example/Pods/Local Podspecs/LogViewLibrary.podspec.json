@@ -1,0 +1,22 @@
+{
+  "name": "LogViewLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of LogViewLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Sowon Lee/LogViewLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sowon Lee": "sowon7191@pionnet.co.kr"
+  },
+  "source": {
+    "git": "https://github.com/Sowon Lee/LogViewLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LogViewLibrary/Classes/**/*"
+}

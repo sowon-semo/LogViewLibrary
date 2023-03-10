@@ -1,0 +1,6 @@
+framework module Pods_LogViewLibrary_Tests {
+  umbrella header "Pods-LogViewLibrary_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
