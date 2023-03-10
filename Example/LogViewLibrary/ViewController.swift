@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import LogViewLibrary
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        LogViewLibrary.sayHello(withName: "sowon")
     }
 
     override func didReceiveMemoryWarning() {

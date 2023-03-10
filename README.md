@@ -1,6 +1,6 @@
 # LogViewLibrary
 
-[![CI Status](https://img.shields.io/travis/Sowon Lee/LogViewLibrary.svg?style=flat)](https://travis-ci.org/Sowon Lee/LogViewLibrary)
+[![CI Status](https://img.shields.io/travis/sowon-semo/LogViewLibrary.svg?style=flat)](https://travis-ci.org/sowon-semo/LogViewLibrary)
 [![Version](https://img.shields.io/cocoapods/v/LogViewLibrary.svg?style=flat)](https://cocoapods.org/pods/LogViewLibrary)
 [![License](https://img.shields.io/cocoapods/l/LogViewLibrary.svg?style=flat)](https://cocoapods.org/pods/LogViewLibrary)
 [![Platform](https://img.shields.io/cocoapods/p/LogViewLibrary.svg?style=flat)](https://cocoapods.org/pods/LogViewLibrary)
@@ -22,7 +22,7 @@ pod 'LogViewLibrary'
 
 ## Author
 
-Sowon Lee, sowon7191@pionnet.co.kr
+Sowon Lee, sowon7191@gmail.com
 
 ## License
 

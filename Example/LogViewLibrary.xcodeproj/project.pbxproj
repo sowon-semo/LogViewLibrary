@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		174694F31EE974EB9C3D135E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		174694F31EE974EB9C3D135E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		24CED76CBBF296AE2F7AA599 /* Pods-LogViewLibrary_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LogViewLibrary_Tests.debug.xcconfig"; path = "Target Support Files/Pods-LogViewLibrary_Tests/Pods-LogViewLibrary_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* LogViewLibrary_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LogViewLibrary_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -44,8 +44,8 @@
 		85165BF609E79FB9494C0BC5 /* Pods-LogViewLibrary_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LogViewLibrary_Tests.release.xcconfig"; path = "Target Support Files/Pods-LogViewLibrary_Tests/Pods-LogViewLibrary_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		91AAD17B3D679DAECB123DFA /* Pods_LogViewLibrary_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LogViewLibrary_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8B52C8607DB1CEF78EE4CB9 /* Pods-LogViewLibrary_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LogViewLibrary_Example.release.xcconfig"; path = "Target Support Files/Pods-LogViewLibrary_Example/Pods-LogViewLibrary_Example.release.xcconfig"; sourceTree = "<group>"; };
-		B5CFD594A0654698A7FE7EFA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		D8DC25B72D26504FDFEBD901 /* LogViewLibrary.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LogViewLibrary.podspec; path = ../LogViewLibrary.podspec; sourceTree = "<group>"; };
+		B5CFD594A0654698A7FE7EFA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		D8DC25B72D26504FDFEBD901 /* LogViewLibrary.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LogViewLibrary.podspec; path = ../LogViewLibrary.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E31790BD216392B62E60196A /* Pods-LogViewLibrary_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LogViewLibrary_Example.debug.xcconfig"; path = "Target Support Files/Pods-LogViewLibrary_Example/Pods-LogViewLibrary_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -86,7 +86,6 @@
 				24CED76CBBF296AE2F7AA599 /* Pods-LogViewLibrary_Tests.debug.xcconfig */,
 				85165BF609E79FB9494C0BC5 /* Pods-LogViewLibrary_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
